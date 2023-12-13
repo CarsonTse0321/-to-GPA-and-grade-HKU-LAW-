@@ -46,7 +46,7 @@ elif percent >= 55 and percent <= 59:
 
 elif percent >= 50 and percent <= 54:
     grade = float("1.0")
-    print(f"The grade is in D just pass")
+    print(f"The grade is D just pass")
 
 elif percent >= 0 and percent <= 49:
     grade = float("0")
